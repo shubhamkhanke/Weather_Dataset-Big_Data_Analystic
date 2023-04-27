@@ -19,8 +19,11 @@ The weather dataset is a time-series data set with per-hour information about th
 # This Question that I solved in this project :
 
 Q. 1)  Find all the unique 'Wind Speed' values in the data.
+
 Q. 2) Find the number of times when the 'Weather is exactly Clear'.
+
 Q. 3) Find the number of times when the 'Wind Speed was exactly 4 km/h'.
+
 Q. 4) Find out all the Null Values in the data.
 Q. 5) Rename the column name 'Weather' of the dataframe to 'Weather Condition'.
 Q. 6) What is the mean 'Visibility' ?
